@@ -91,7 +91,7 @@
     border: none;
     font-size: 1.1rem;
     background-color: var(--Orange500);
-    margin: 2rem 0 0 2rem;
+    margin: 1.5rem 0 0 2rem;
      box-shadow: rgba(0, 0,0, 0.2);
  }
  #SubmitBtn:hover{
@@ -129,34 +129,42 @@
  @media(min-width:576px){
     .container{
         width: 60%;
+        height: 55vh;
     }
     .Thanks-State{
         width: 60%;
+        height: 55vh;
     }
  }
  @media(min-width:992px){
      .container{
         width: 50%;
+        height: 55vh;
     }
     .Thanks-State{
         width: 50%;
+        height: 55vh;
     }
  }
 
  @media(min-width:1200px){
      .container{
         width: 40%;
+        height: 55vh;
     }
     .Thanks-State{
         width: 40%;
+        height: 55vh;
     }
  }
  @media(min-width:1440px){
      .container{
         width: 25%;
+        height: 55vh;
     }
     .Thanks-State{
         width: 25%;
+        height: 55vh;
     }
  }
 
